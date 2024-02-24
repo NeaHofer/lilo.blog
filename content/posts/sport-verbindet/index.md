@@ -12,4 +12,6 @@ Gilles Bigler beweist trotz Sehnerv-Atrophie, dass Aufgeben keine Option ist. Mi
 
 {{</lead>}}
 
+Luana Rentschler und Nea Hofer 
+
 ![Verbunden mit der Natur: Gilles Bigler und seine Schwester am «Run and Walk» in Bern (Verfügbar unter https://trackmaxx.ch/ Stand 27.01.2024)](gilles-bigler-am-never-walk-alone.jpg)
