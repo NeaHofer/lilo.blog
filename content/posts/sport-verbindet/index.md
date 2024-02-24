@@ -3,6 +3,7 @@ title = "Sport verbindet"
 date = "2024-02-24"
 draft = false
 pinned = true
+tags = ["PluSport", "Menschenerfolg"]
 image = "gilles-bigler-am-never-walk-alone.jpg"
 description = "Gilles Bigler beweist trotz Sehnerv-Atrophie, dass Aufgeben keine Option ist. Mit beeindruckendem Durchhaltevermögen, Willenskraft und der Unterstützung von PluSport überwindet er seine Krise nach der niederschmetternden Diagnose."
 +++
@@ -33,7 +34,7 @@ Aufgeben war für Gilles nie eine Option. Heute merkt man seiner aufgestellten A
 Der grösste und wichtigste Anlass ist der jährliche stattfindende PluSport-Tag in Magglingen. 1000 Sportbegeisterte treiben zusammen Sport und messen sich in unterschiedlichen Wettkämpfen. Ein solches Happening ist jedes Jahr wieder ein Highlight, auch für Mitarbeitende wie Reto Planzer. Wie Reto Planzer sagt, ist es extrem schön die PluSportler*innen persönlich zu treffen, mit denen man sonst nur telefonisch oder schriftlich in Kontakt ist. Der persönliche Austausch ist sehr wichtig für eine gute Zusammenarbeit und dieser wird vor allem an solchen Anlässen gepflegt. Die Finanzierung solcher Projekte ist nicht immer einfach. Heute wird PluSport ungefähr zu 30 Prozent durch Spenden finanziert, zudem bezahlen alle Mitglieder einen jährlichen Beitrag. Nebenbei macht eine Firma Fundraising, diese animiert andere Betriebe, PluSport zu unterstützen, damit solche Anlässe möglich werden und Sportler*innen mit einer Einschränkung die nötige Unterstützung zum Sport treiben bekommen.
 
 {{<box>}}
-**Reto Planzer**
+**Reto Planzer** \
 Sein erster Berührungspunkt mit der Organisation PluSport erfolgte im Sportstudium an der Eidg. Hochschule für Sport in Magglingen, als er 2019 im Rahmen des Fachstudiums Adapted Physical Activity (APA) ein Praktikum in einem Wintersportcamp für Erwachsene mit geistiger Beeinträchtigung bei PluSport gemacht hat. Besonders Freude an seinem Job macht ihm das soziale Engagement im Bereich Bewegung und Sport und dass er mit seiner Arbeit dazu bei-trägt, Menschen mit einer Beeinträchtigung einen verbesserten Zugang zu Bewegung und Sport in der Schweizer Sportlandschaft zu ermöglichen. Seine Funktionen bei PluSport sind sehr vielfältig. Neben der Betreuung der Kooperation mit Sportverbänden und -akteuren orga-nisiert und leitet er Weiterbildungskurse. Zudem hat er die Projektleitung für die Projekte «Ne-ver Walk Alone» und «PluSport@school».
 
 {{</box>}}
@@ -44,7 +45,7 @@ Er ist momentan zuständig für die Kooperation mit Sportverbänden und ist rege
 Die Gesellschaft sowie das Sportsystem Schweiz ist gefordert, mehr zu investieren, damit Sportler*innen mit Beeinträchtigung noch besser und erfolgreicher integriert werden können.
 
 {{<box>}}
-**PluSport@school**
+**PluSport@school** \
 Dieses Projekt hat zum Ziel, das Schülerinnen und Schüler mit Beeinträchtigung möglichst am ob-ligatorischen Sportunterricht in Regelschulen mitmachen können. Damit dies gelingt, ist eine diver-sitätssensible Einstellung der Sportlehrpersonen und der Schule zentral. Hier unterstützt PluSport mit verschiedenen Dienstleistungen, wie zum Beispiel Praxisworkshops mit Botschafter*innen, Weiterbildungen für Betreuungs- und Lehrpersonen oder Mitorganisation eines Sporttages.
 {{</box>}}
 
