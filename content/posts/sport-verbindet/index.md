@@ -19,7 +19,7 @@ Luana Rentschler und Nea Hofer
 
 Nur noch wenige Minuten bis mitten in Bern, schön gelegen an der Aare, der Startschuss zum diesjährigen «Run and Walk» ertönt. Es werden noch letzte Aufwärmübungen gemacht, Laufschuhe geschnürt, einige Worte mit den Liebsten ausgetauscht, bis man sie nach zehn Kilometern wieder sieht. Für ein Geburtstagskind setzt der Veranstalter ein «Happy Birthday» an, und alle stimmen mit ein. Jetzt ist es so weit, aus den Lautsprechern hört man: «Drei, zwei, eins, peng», die Läufer*innen rennen los. Die Zeit läuft, nach einer halben Stunde laufen die Ersten bei eisigen Temperaturen unter dem schwarzen Zielbogen ins Ziel. Coop als Hauptsponsor macht es mit Hilfe von PluSport beeinträchtigten Sportlerinnen möglich, kostenlos an Laufveranstaltungen des «never walk alone»-Projekts teilzunehmen. So macht auch Gilles Bigler jedes Jahr an diesem Lauf mit. «Ich liebe solche Volksläufe», meint Gilles Bigler, «diese Atmosphäre vor dem Start ist unglaublich». Er findet es zudem motivierend, dass PluSport beeinträchtigte Sportlerinnen unterstützt und es ihnen ermöglicht, an Sportveranstaltungen teilzunehmen. Für Gilles ist Laufsport schon lange eine grosse Leidenschaft, wie auch für viele andere Menschen, egal ob mit oder ohne Beeinträchtigung. 
 
-#### Überwindung durch Bewegung
+### Überwindung durch Bewegung
 
 Gilles Bigler betreibt seit 14 Jahren Laufsport und führt ein ganz normales Leben. Vor einigen Jahren erhielt er die Diagnose einer Sehnerv-Atrophie, dies ist eine degenerative Erkrankung mit zunehmendem Schwund des Sehnervs. Heute ist Gilles’ Visus eingeschränkt und er sieht verschwommen.
 Die Hiobsbotschaft war ein harter Schlag für ihn und seine Familie. In einer Klinik konnte er seine anfängliche Hoffnungslosigkeit überwinden und wieder Fuss fassen. Er musste sich beruflich neu orientieren und wechselte vom Schreibtisch zu einer Massageliege. Als Masseur kann Gilles die Augen schliessen und über seinen Tastsinn arbeiten. Nebst der Arbeit als Therapeut engagiert sich Gilles bei der Firma Menschenerfolg und begleitet Personen, welche in einer Krise stecken oder mit mehr Energie durchs Leben gehen wollen. Wie er selbst auf seiner Homepage beschreibt: «Mit meinen Angeboten befähige ich Menschen, ihr Leben proaktiv und freudvoll zu gestallten und sich vital und stark zu fühlen».
@@ -28,7 +28,7 @@ Aufgeben war für Gilles nie eine Option. Heute merkt man seiner aufgestellten A
 
 ![Abendstimmung an der Aare - Gilles Bigler in seinem Training (Foto: Luana Rentschler)](whatsapp-image-2024-02-24-at-18.03.36.jpeg)
 
-#### Sport ohne Grenzen
+### Sport ohne Grenzen
 
 «Never walk alone» ist eines der erfolgreichsten Inklusionsprojekte von PluSport. Das Ziel ist es, dass sich kleinere sowie grössere Laufveranstaltungen immer mehr für Menschen mit Beeinträchtigung öffnen. Immer mehr Veranstalter sind bereit mitzumachen und es kommen ständig neue dazu, mittlerweile sind es über 80 in der Schweiz. Die Idee hinter solchen Läufen ist die Inklusion von Beeinträchtigten. So können Menschen mit und ohne Beeinträchtigung zusammen laufen, sich bewegen und messen.
 
@@ -44,7 +44,7 @@ Sein erster Berührungspunkt mit der Organisation PluSport erfolgte im Sportstud
 
 {{</box>}}
 
-#### Inklusive Gesellschaft
+### Inklusive Gesellschaft
 
 PluSport Schweiz wurde 1960 zur Unterstützung von Menschen mit unterschiedlichen Arten von Beeinträchtigungen gegründet. Das Hauptziel war es, Sportleistungen für Menschen mit Beeinträchtigung anzubieten. Noch heute gehört dies zum Kerngeschäft von PluSport. Natürlich enga-giert sich der Behindertensportverband auch für Inklusion im und durch Sport. Der Fachbereich Inklusion, in dem Reto Planzer beschäftigt ist, hat 220 Stellenprozente. Für Reto Planzer ist Inklusion ein wichtiger Bestandteil seines Lebens. Inklusion bedeutet für ihn: 
 
@@ -60,7 +60,7 @@ Die Gesellschaft sowie das Sportsystem Schweiz ist gefordert, mehr zu investiere
 Dieses Projekt hat zum Ziel, das Schülerinnen und Schüler mit Beeinträchtigung möglichst am ob-ligatorischen Sportunterricht in Regelschulen mitmachen können. Damit dies gelingt, ist eine diver-sitätssensible Einstellung der Sportlehrpersonen und der Schule zentral. Hier unterstützt PluSport mit verschiedenen Dienstleistungen, wie zum Beispiel Praxisworkshops mit Botschafter*innen, Weiterbildungen für Betreuungs- und Lehrpersonen oder Mitorganisation eines Sporttages.
 {{</box>}}
 
-#### PluSport für Inklusion und Vielfalt im Sport
+### PluSport für Inklusion und Vielfalt im Sport
 
 PluSport hat schon viel erreicht, aber noch lange nicht genug. So will PluSport weiterhin die Inklusion von Beeinträchtigten fördern, so wie die Zusammenarbeit im Sportsystem, dass alle die gleiche Sprache sprechen. Ein weiteres Ziel ist es, dass in Zukunft Sportverbände selbst viel mehr zur Inklusion beitragen und PluSport nicht mehr die Vermittlerrolle übernehmen muss, sondern als Kompetenzstelle zur Verfügung steht. PluSport will sich in vielen Bereichen noch weiter entwickeln. 
 Der diesjährige «Run and Walk» in Bern neigt sich dem Ende zu, die Leute fallen sich in die Arme, sind glücklich und freuen sich miteinander über ihre Leistungen. Einmal mehr zeigt sich, dass solche Anlässe verbinden. Zusammen Sport treiben fördert die Inklusion, Sport bietet eine gute Plattform zur Begegnung, egal ob beeinträchtigt oder nicht. Auf diese Weise kann die Gesellschaft sensibilisiert werden und mehr Toleranz für alle geschaffen werden.
