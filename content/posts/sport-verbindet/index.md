@@ -46,7 +46,7 @@ Sein erster Berührungspunkt mit der Organisation PluSport erfolgte im Sportstud
 
 ### Inklusive Gesellschaft
 
-PluSport Schweiz wurde 1960 zur Unterstützung von Menschen mit unterschiedlichen Arten von Beeinträchtigungen gegründet. Das Hauptziel war es, Sportleistungen für Menschen mit Beeinträchtigung anzubieten. Noch heute gehört dies zum Kerngeschäft von PluSport. Natürlich enga-giert sich der Behindertensportverband auch für Inklusion im und durch Sport. Der Fachbereich Inklusion, in dem Reto Planzer beschäftigt ist, hat 220 Stellenprozente. Für Reto Planzer ist Inklusion ein wichtiger Bestandteil seines Lebens. Inklusion bedeutet für ihn: 
+PluSport Schweiz wurde 1960 zur Unterstützung von Menschen mit unterschiedlichen Arten von Beeinträchtigungen gegründet. Das Hauptziel war es, Sportleistungen für Menschen mit Beeinträchtigung anzubieten. Noch heute gehört dies zum Kerngeschäft von PluSport. Natürlich engagiert sich der Behindertensportverband auch für Inklusion im und durch Sport. Der Fachbereich Inklusion, in dem Reto Planzer beschäftigt ist, hat 220 Stellenprozente. Für Reto Planzer ist Inklusion ein wichtiger Bestandteil seines Lebens. Inklusion bedeutet für ihn: 
 
 > «…im Grundsatz, dass alle die möchten auch teilhaben können. Inklusion ist ein wechselseitiger Prozess. Zum Gelingen sollen alle involvierten Personen ihren Beitrag leisten.»
 >
